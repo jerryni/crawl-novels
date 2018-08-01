@@ -1,0 +1,12 @@
+{
+  "name": "crawl-novels",
+  "version": "1.0.0",
+  "description": "Crawl novels that my wife liked.",
+  "main": "index.js",
+  "repository": "https://github.com/jerryni/crawl-novels.git",
+  "author": "jerryni",
+  "license": "MIT",
+  "dependencies": {
+    "crawler": "^1.1.4"
+  }
+}
